@@ -1,0 +1,20 @@
+ Optimal Threshold for proton: 0.11627039555818039
+High TPR Threshold for proton: 0.08154621461243741
+High FPR Threshold for proton: 0.004579031155918459
+Training accuracy for proton: 0.9284
+Testing accuracy for proton: 0.9196
+Optimal Threshold for pimu: 0.29796659887737814
+High TPR Threshold for pimu: 0.1962593346467136
+High FPR Threshold for pimu: 0.008641445409156847
+Training accuracy for pimu: 0.7953
+Testing accuracy for pimu: 0.7765
+Optimal Threshold for kaon: 0.0012111855592743023
+High TPR Threshold for kaon: 0.0004359350410105878
+High FPR Threshold for kaon: 0.00025665131792137124
+Training accuracy for kaon: 0.9990
+Testing accuracy for kaon: 0.9869
+Optimal Threshold for ckov: 0.024843551178648744
+High TPR Threshold for ckov: 0.019198794908358782
+High FPR Threshold for ckov: 0.0008350288898894002
+Training accuracy for ckov: 0.9760
+Testing accuracy for ckov: 0.9703
